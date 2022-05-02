@@ -17,25 +17,25 @@ Create artificial artwork using AI.
 
 .. |build| image:: https://img.shields.io/github/workflow/status/boromir674/python-object-getter/Test%20Python%20Package/master?label=build&logo=github-actions&logoColor=%233392FF
     :alt: GitHub Workflow Status (branch)
-    :target: https://github.com/boromir674/python-object-getter/actions/workflows/test.yaml?query=branch%3Amaster
+    .. :target: https://github.com/boromir674/python-object-getter/actions/workflows/test.yaml?query=branch%3Amaster
 
 .. above url to workflow runs, filtered by the specified branch
 
 .. |release_version| image:: https://img.shields.io/pypi/v/python_object_getter
     :alt: Production Version
-    :target: https://pypi.org/project/python_object_getter/
+    .. :target: https://pypi.org/project/python_object_getter/
 
 .. |wheel| image:: https://img.shields.io/pypi/wheel/python-object-getter?color=green&label=wheel
     :alt: PyPI - Wheel
-    :target: https://pypi.org/project/python_object_getter
+    .. :target: https://pypi.org/project/python_object_getter
 
 .. |supported_versions| image:: https://img.shields.io/pypi/pyversions/python-object-getter?color=blue&label=python&logo=python&logoColor=%23ccccff
     :alt: Supported Python versions
-    :target: https://pypi.org/project/python_object_getter
+    .. :target: https://pypi.org/project/python_object_getter
 
 .. |commits_since_specific_tag_on_master| image:: https://img.shields.io/github/commits-since/boromir674/python-object-getter/v0.0.1/master?color=blue&logo=github
     :alt: GitHub commits since tagged version (branch)
-    :target: https://github.com/boromir674/python-object-getter/compare/v0.0.1..master
+    .. :target: https://github.com/boromir674/python-object-getter/compare/v0.0.1..master
 
 .. |commits_since_latest_github_release| image:: https://img.shields.io/github/commits-since/boromir674/python-object-getter/latest?color=blue&logo=semver&sort=semver
     :alt: GitHub commits since latest release (by SemVer)
