@@ -8,8 +8,8 @@ Create artificial artwork using AI.
 
 
 |
-| **Source Code:** https://github.com/boromir674/python-object-getter
-| **Pypi Package:** https://pypi.org/project/python_object_getter/
+.. | **Source Code:** https://github.com/boromir674/python-object-getter
+.. | **Pypi Package:** https://pypi.org/project/python_object_getter/
 |
 
 
