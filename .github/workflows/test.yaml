@@ -1,4 +1,5 @@
 name: Test Python Package
+# Automated process to run test suite against different platforms and python versions
 
 on:
   push:
