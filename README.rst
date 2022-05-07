@@ -95,9 +95,9 @@ License
     :alt: Supported Python versions
     :target: https://pypi.org/project/python_object_getter
 
-.. |commits_since_specific_tag_on_master| image:: https://img.shields.io/github/commits-since/boromir674/python-object-getter/v0.0.1/master?color=blue&logo=github
+.. |commits_since_specific_tag_on_master| image:: https://img.shields.io/github/commits-since/boromir674/python-object-getter/v0.0.2-dev/master?color=blue&logo=github
     :alt: GitHub commits since tagged version (branch)
-    :target: https://github.com/boromir674/python-object-getter/compare/v0.0.1..master
+    :target: https://github.com/boromir674/python-object-getter/compare/v0.0.2-dev..master
 
 .. |commits_since_latest_github_release| image:: https://img.shields.io/github/commits-since/boromir674/python-object-getter/latest?color=blue&logo=semver&sort=semver
     :alt: GitHub commits since latest release (by SemVer)
